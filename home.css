@@ -1,0 +1,386 @@
+*{
+	background-color: lightpink;
+	margin: 10px;
+}
+.p{
+	display: flex;
+}
+
+.p1{
+	flex-basis: 30%;
+}
+.p2{
+	flex-basis: 50%;
+}
+.p3{
+	flex-basis: 20px;
+	margin-left: 30px;
+}
+.p2 a{
+	color: blue;
+}
+.p2 a:hover{
+	background-color: purple;
+	color: white;
+}
+
+.A{
+	display: flex;
+}
+
+.a1, .a2{
+	flex-basis: 50%;
+}
+.a1 h1, p{
+	margin-left: 30px;
+}
+.a2{
+	margin-left: 30px;
+}
+.a1{
+	font-size: 19px;
+}
+.C{
+	display: flex;
+	margin: 4opx;
+}
+.c1{
+	flex-basis: 30%;
+}
+.c2{
+	flex-basis: 30%;
+}
+.c3{
+	flex-basis: 30% ;
+}
+.c2, .c3{
+	margin-left: 400px;
+	margin: 70px;
+}
+}
+.D{
+	display: flex;
+}
+.d1 a:hover{
+	color: black;
+	background-color: yellow;
+}
+
+.d3 a{
+	margin-left: 700px;
+}
+
+.d1 a{
+	margin-left: 700px;
+}
+.d2{
+	margin-left: 600px;
+}
+.d3 a:hover{
+	color: black;
+	background-color: yellow;
+}
+
+
+.c1 h1{
+	margin: 70px;
+	position: relative;
+	left: 150px;
+	font-size: 30px;
+}
+.c2 h1{
+	font-size: 30px;
+	position: relative;
+	left: 50px;
+}
+.c3 h1{
+	font-size: 30px;
+	position: relative;
+	right: 100px;
+}
+.riyaaq{
+	display: flex;
+}
+.p1{
+	flex-basis: 40%;
+}
+.p2 a{
+	flex-basis: 40%;
+	margin-left: 30px;
+	text-decoration: none;
+}
+.p3 img{
+ flex-basis: 40%;
+ margin-left: 30px;
+}
+ .d3 a{
+	text-decoration: none;
+}
+
+.d1 a{
+	text-decoration: none;
+}
+.f2 a{
+	text-decoration: none;
+	background-color: red;
+	color: black;
+}
+.f1 img{
+	position: relative;
+	left: 30px;
+	margin-left: 100px;
+}
+
+.A{
+	display: flex;
+	margin: 20px;
+}
+.a1{
+	margin-left: 40px;
+}
+.a1 a{
+	text-decoration: none;
+	background-color: red;
+	color: black;
+}
+
+.E{
+	display: flex;
+}
+.E{
+	margin-lefts: 20px;
+}
+}
+.
+.e1 a:hover{
+	background-color: red;
+	color: white;
+}
+.e1 a{
+	text-decoration: none;
+}
+.e1 a{
+	margin-left: 100px;
+}
+
+}
+.d2{
+	margin-left: 10px;
+}
+.d1 a{
+	margin-left: 700px;
+}
+.d2{
+	margin-left: 700px;
+}
+.a1{
+	margin-right: 30px;
+}
+
+.a2 img{
+	margin-left: 100px;
+}
+.e1 a{
+	margin-right: 90px;
+}
+.F{
+	margin: 30px;
+}
+.f1 img{
+	margin-left: 300px;
+}
+.f1, .d2{
+	flex-basis: 50%;
+}
+.F{
+   display: flex;
+}
+.f1, .d2{
+	flex-basis: 50%;
+}
+
+.d2{
+	margin-left: 50px;
+}
+.d3 a{
+	margin-right: 80px
+}
+.d2 a:hover{
+background-color: yellow;
+}
+
+.d2 a{
+	text-decoration: none;
+}
+.E{
+margin: 30px;
+}
+.E{
+	display: flex;
+	margin: 150px;
+}
+.E{
+	margin-right: 90PX;
+}
+.e1{
+	margin-left: 690px;
+}
+.e1 a{
+	text-decoration: none;
+	background-color: blue;
+	color: black;
+}
+
+.adna{
+	display: flex;
+}
+.half3{
+
+	flex-basis: 33%;
+	margin: 20px;
+	background-color: blue;
+	height: 250px;
+	width: 200px;
+	border-radius: 20px;
+	text-align: center;
+}
+.half3 img{
+	height: 60px;
+}
+.half3 h1{
+	color: black;
+	background-color: blue;
+}
+
+
+
+
+
+
+.adna{
+	display: flex;
+}
+.half3{
+
+	flex-basis: 33%;
+	margin: 20px;
+	background-color: lightblue;
+	height: 250px;
+	width: 200px;
+	border-radius: 20px;
+	text-align: center;
+}
+.half3 img{
+	height: 60px;
+}
+
+.half3 h2{
+	background-color: lightblue;
+}
+.half3 p{
+	background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
